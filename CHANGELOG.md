@@ -2,6 +2,9 @@
 Notable changes to this project are documented in this file.
 
 ## [4.16.0] - (? 2026 - [4.16.0 changes])
+- Update baseline to SQLite 3.53.1
+- Allocate LTC temp variables on stack
+- Omit extra warn-level log on lock failure
 
 ## [4.15.0] - (April 2026 - [4.15.0 changes])
 - Update baseline to SQLite 3.53.0
